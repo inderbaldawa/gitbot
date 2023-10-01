@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.20.0"
+  },
+  "name": "gitbot",
+  "description": "Trying to be a Kewl Kid on Github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inderbaldawa/gitbot.git"
+  },
+  "author": "inder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inderbaldawa/gitbot/issues"
+  },
+  "homepage": "https://github.com/inderbaldawa/gitbot#readme"
+}
